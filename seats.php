@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Seats</title>
+    <link rel="stylesheet" href="1.css">
+</head>
+
+<body>
+    <div class="screen">
+        screen
+    </div>
+    <div class="chairs">
+        <div class="row">
+            <div class="seat">
+                <span>A</span>
+                <li class="seat">A1</li>
+                <li class="seat">A2</li>
+                <li class="seat">A3</li>
+                <li class="seat">A4</li>
+                <li class="seat">A5</li>
+                <li class="seat">A6</li>
+                <li class="seat">A7</li>
+                <li class="seat">A8</li>
+                <li class="seat">A9</li>
+                <li class="seat">A10</li>
+                <li class="seat">A11</li>
+                <li class="seat">A12</li>
+                <li class="seat">A13</li>
+                <li class="seat">A14</li>
+                <li class="seat">A15</li>
+                <li class="seat">A16</li>
+                <li class="seat">A17</li>
+                <li class="seat">A18</li>
+                <li class="seat">A19</li>
+                <li class="seat">A20</li>
+                <span>A</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>B</span>
+                <li class="seat">B1</li>
+                <li class="seat">B2</li>
+                <li class="seat">B3</li>
+                <li class="seat">B4</li>
+                <li class="seat">B5</li>
+                <li class="seat">B6</li>
+                <li class="seat">B7</li>
+                <li class="seat">B8</li>
+                <li class="seat">B9</li>
+                <li class="seat">B10</li>
+                <li class="seat">B11</li>
+                <li class="seat">B12</li>
+                <li class="seat">B13</li>
+                <li class="seat">B14</li>
+                <li class="seat">B15</li>
+                <li class="seat">B16</li>
+                <li class="seat">B17</li>
+                <li class="seat">B18</li>
+                <li class="seat">B19</li>
+                <li class="seat">B20</li>
+                <span>B</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>C</span>
+                <li class="seat">C1</li>
+                <li class="seat">C2</li>
+                <li class="seat">C3</li>
+                <li class="seat">C4</li>
+                <li class="seat">C5</li>
+                <li class="seat">C6</li>
+                <li class="seat">C7</li>
+                <li class="seat">C8</li>
+                <li class="seat">C9</li>
+                <li class="seat">C10</li>
+                <li class="seat">C11</li>
+                <li class="seat">C12</li>
+                <li class="seat">C13</li>
+                <li class="seat">C14</li>
+                <li class="seat">C15</li>
+                <li class="seat">C16</li>
+                <li class="seat">C17</li>
+                <li class="seat">C18</li>
+                <li class="seat">C19</li>
+                <li class="seat">C20</li>
+                <span>C</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>D</span>
+                <li class="seat">D1</li>
+                <li class="seat">D2</li>
+                <li class="seat">D3</li>
+                <li class="seat">D4</li>
+                <li class="seat">D5</li>
+                <li class="seat">D6</li>
+                <li class="seat">D7</li>
+                <li class="seat">D8</li>
+                <li class="seat">D9</li>
+                <li class="seat">D10</li>
+                <li class="seat">D11</li>
+                <li class="seat">D12</li>
+                <li class="seat">D13</li>
+                <li class="seat">D14</li>
+                <li class="seat">D15</li>
+                <li class="seat">D16</li>
+                <li class="seat">D17</li>
+                <li class="seat">D18</li>
+                <li class="seat">D19</li>
+                <li class="seat">D20</li>
+                <span>D</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>E</span>
+                <li class="seat">E1</li>
+                <li class="seat">E2</li>
+                <li class="seat">E3</li>
+                <li class="seat">E4</li>
+                <li class="seat">E5</li>
+                <li class="seat">E6</li>
+                <li class="seat">E7</li>
+                <li class="seat">E8</li>
+                <li class="seat">E9</li>
+                <li class="seat">E10</li>
+                <li class="seat">E11</li>
+                <li class="seat">E12</li>
+                <li class="seat">E13</li>
+                <li class="seat">E14</li>
+                <li class="seat">E15</li>
+                <li class="seat">E16</li>
+                <li class="seat">E17</li>
+                <li class="seat">E18</li>
+                <li class="seat">E19</li>
+                <li class="seat">E20</li>
+                <span>E</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>F</span>
+                <li class="seat">F1</li>
+                <li class="seat">F2</li>
+                <li class="seat">F3</li>
+                <li class="seat">F4</li>
+                <li class="seat">F5</li>
+                <li class="seat">F6</li>
+                <li class="seat">F7</li>
+                <li class="seat">F8</li>
+                <li class="seat">F9</li>
+                <li class="seat">F10</li>
+                <li class="seat">F11</li>
+                <li class="seat">F12</li>
+                <li class="seat">F13</li>
+                <li class="seat">F14</li>
+                <li class="seat">F15</li>
+                <li class="seat">F16</li>
+                <li class="seat">F17</li>
+                <li class="seat">F18</li>
+                <li class="seat">F19</li>
+                <li class="seat">F20</li>
+                <span>F</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>G</span>
+                <li class="seat">G1</li>
+                <li class="seat">G2</li>
+                <li class="seat">G3</li>
+                <li class="seat">G4</li>
+                <li class="seat">G5</li>
+                <li class="seat">G6</li>
+                <li class="seat">G7</li>
+                <li class="seat">G8</li>
+                <li class="seat">G9</li>
+                <li class="seat">G10</li>
+                <li class="seat">G11</li>
+                <li class="seat">G12</li>
+                <li class="seat">G13</li>
+                <li class="seat">G14</li>
+                <li class="seat">G15</li>
+                <li class="seat">G16</li>
+                <li class="seat">G17</li>
+                <li class="seat">G18</li>
+                <li class="seat">G19</li>
+                <li class="seat">G20</li>
+                <span>G</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>H</span>
+                <li class="seat">H1</li>
+                <li class="seat">H2</li>
+                <li class="seat">H3</li>
+                <li class="seat">H4</li>
+                <li class="seat">H5</li>
+                <li class="seat">H6</li>
+                <li class="seat">H7</li>
+                <li class="seat">H8</li>
+                <li class="seat">H9</li>
+                <li class="seat">H10</li>
+                <li class="seat">H11</li>
+                <li class="seat">H12</li>
+                <li class="seat">H13</li>
+                <li class="seat">H14</li>
+                <li class="seat">H15</li>
+                <li class="seat">H16</li>
+                <li class="seat">H17</li>
+                <li class="seat">H18</li>
+                <li class="seat">H19</li>
+                <li class="seat">H20</li>
+                <span>H</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>I</span>
+                <li class="seat">I1</li>
+                <li class="seat">I2</li>
+                <li class="seat">I3</li>
+                <li class="seat">I4</li>
+                <li class="seat">I5</li>
+                <li class="seat">I6</li>
+                <li class="seat">I7</li>
+                <li class="seat">I8</li>
+                <li class="seat">I9</li>
+                <li class="seat">I10</li>
+                <li class="seat">I11</li>
+                <li class="seat">I12</li>
+                <li class="seat">I13</li>
+                <li class="seat">I14</li>
+                <li class="seat">I15</li>
+                <li class="seat">I16</li>
+                <li class="seat">I17</li>
+                <li class="seat">I18</li>
+                <li class="seat">I19</li>
+                <li class="seat">I20</li>
+                <span>I</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>J</span>
+                <li class="seat">J1</li>
+                <li class="seat">J2</li>
+                <li class="seat">J3</li>
+                <li class="seat">J4</li>
+                <li class="seat">J5</li>
+                <li class="seat">J6</li>
+                <li class="seat">J7</li>
+                <li class="seat">J8</li>
+                <li class="seat">J9</li>
+                <li class="seat">J10</li>
+                <li class="seat">J11</li>
+                <li class="seat">J12</li>
+                <li class="seat">J13</li>
+                <li class="seat">J14</li>
+                <li class="seat">J15</li>
+                <li class="seat">J16</li>
+                <li class="seat">J17</li>
+                <li class="seat">J18</li>
+                <li class="seat">J19</li>
+                <li class="seat">J20</li>
+                <span>J</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>K</span>
+                <li class="seat">K1</li>
+                <li class="seat">K2</li>
+                <li class="seat">K3</li>
+                <li class="seat">K4</li>
+                <li class="seat">K5</li>
+                <li class="seat">K6</li>
+                <li class="seat">K7</li>
+                <li class="seat">K8</li>
+                <li class="seat">K9</li>
+                <li class="seat">K10</li>
+                <li class="seat">K11</li>
+                <li class="seat">K12</li>
+                <li class="seat">K13</li>
+                <li class="seat">K14</li>
+                <li class="seat">K15</li>
+                <li class="seat">K16</li>
+                <li class="seat">K17</li>
+                <li class="seat">K18</li>
+                <li class="seat">K19</li>
+                <li class="seat">K20</li>
+                <span>K</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="seat">
+                <span>L</span>
+                <li class="seat">L1</li>
+                <li class="seat">L2</li>
+                <li class="seat">L3</li>
+                <li class="seat">L4</li>
+                <li class="seat">L5</li>
+                <li class="seat">L6</li>
+                <li class="seat">L7</li>
+                <li class="seat">L8</li>
+                <li class="seat">L9</li>
+                <li class="seat">L10</li>
+                <li class="seat">L11</li>
+                <li class="seat">L12</li>
+                <li class="seat">L13</li>
+                <li class="seat">L14</li>
+                <li class="seat">L15</li>
+                <li class="seat">L16</li>
+                <li class="seat">L17</li>
+                <li class="seat">L18</li>
+                <li class="seat">L19</li>
+                <li class="seat">L20</li>
+                <span>L</span>
+            </div>
+        </div>
+        <div class="details" id="det">
+            <div class="details_chair">
+                <li>Available</li>
+                <li>Booked</li>
+                <li>Selected</li>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
